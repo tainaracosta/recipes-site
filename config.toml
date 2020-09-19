@@ -1,4 +1,4 @@
-baseurl = "https://tainaracosta.github.io/recipes-site"
+baseurl = "https://tainaracosta.github.io/recipes-site/"
 title = "Nederburg"
 theme = "nederburg"
 languageCode = "en-us"
